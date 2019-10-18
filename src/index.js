@@ -1,6 +1,8 @@
 import React from 'react';
 import {StyleSheet, ScrollView, View, Text} from 'react-native';
 
+import './config/ReactotronConfig';
+
 import {Header, Colors} from 'react-native/Libraries/NewAppScreen';
 
 const styles = StyleSheet.create({
